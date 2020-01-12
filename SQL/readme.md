@@ -2,6 +2,18 @@
 
 sql，Python，数据仓库，linux，数据挖掘
 
+## 数据仓库
+
+数据仓库有Hive
+
+数据仓库和数据库的比较：https://www.zhihu.com/question/20623931/answer/139842331
+
+数仓入门：https://zhuanlan.zhihu.com/p/39611221
+
+数据分析中的各种岗位：https://www.zhihu.com/question/37411491/answer/71914318
+
+推荐的书单：https://www.zhihu.com/question/19640095/answer/762894755
+
 # SQL 学习资源
 
 ## 书籍
