@@ -25,3 +25,24 @@ https://www.w3school.com.cn/sql/index.asp
 答案解读1：https://zhuanlan.zhihu.com/p/57505017
 
 答案解读2： https://www.jianshu.com/p/5a659c5b5656
+
+## sql进阶
+
+### 书籍
+
+日本Mick写的《sql基础教程》：
+
+sql进阶教程：https://book.douban.com/subject/27194738/
+
+sql权威指南：https://book.douban.com/subject/20395440/
+
+### 练习网站
+
+http://www.sql-ex.ru/
+
+
+
+
+
+
+
