@@ -1,3 +1,7 @@
+# 数据分析师需要的技能
+
+sql，Python，数据仓库，linux，数据挖掘
+
 # SQL 学习资源
 
 ## 书籍
@@ -35,6 +39,9 @@ https://www.w3school.com.cn/sql/index.asp
 sql进阶教程：https://book.douban.com/subject/27194738/
 
 sql权威指南：https://book.douban.com/subject/20395440/
+
+深入浅出数据分析：https://book.douban.com/subject/5257905/
+
 
 ### 练习网站
 
