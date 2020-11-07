@@ -13,3 +13,7 @@ https://www.jiqizhixin.com/articles/2018-04-23-3
 https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXE117+Self-paced/about
 
 只看图像分类，物体检测和人脸识别。有理论讲解。
+
+## pytorch中文教程
+
+https://www.pytorchtutorial.com/category/pytorch/page/2/
